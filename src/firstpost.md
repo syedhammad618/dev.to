@@ -20,8 +20,8 @@ As we will later see , in DOS we need to manually do these things.
 
 So, MASM stands for Microsoft Assembler , and is a pretty popular assembler .
 Other options for assembler(for x86) include :
-1. NASM : open source and pretty powerful  [NASM](https://www.nasm.us/)
-2. GAS : open source , but uses the AT&T based writing style not the popualr INTEL one .[GAS](http://tigcc.ticalc.org/doc/gnuasm.html)
+1. NASM : open source and pretty powerful: [NASM](https://www.nasm.us/)
+2. GAS : open source , but uses the AT&T based writing style not the popualr INTEL one: [GAS](http://tigcc.ticalc.org/doc/gnuasm.html)
 
 
 
@@ -33,6 +33,26 @@ Other options for assembler(for x86) include :
                  sudo apt-get install dosbox
             
             
-![DOSBox screenshot](https://github.com/lorderikstark/)
+   ![DOSBox screenshot](https://github.com/lorderikstark/dev.to/blob/master/imgs/first/img1.png)
+
+### 2. For other GNU/Linux users:
+  Download DOSBox from here :
+       [DOSBox](https://www.dosbox.com)
+
+
+### 3. Installing MASM 8086 for Ubuntu:
+   Download MASM assembler from here :
+    [MASM](https://github.com/lorderikstark/dev.to/tree/master/masm)   
+
+
+
+## In the next post , I will post about how to mount letter drives and how to compile the programs by creating the asm files and creating the object files and linking them and them to compile them.
+
+### Till then , happy coding !!!
+
+
+        
+
+
 
 
